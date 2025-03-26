@@ -1,0 +1,14 @@
+# For backend
+langchain==0.1.16
+langchain-huggingface
+langchain-community
+sentence-transformers
+pdf2image
+pypdf
+faiss-cpu
+
+# For frontend
+streamlit
+
+# For Ollama
+ollama
