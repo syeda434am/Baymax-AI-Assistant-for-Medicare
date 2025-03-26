@@ -35,8 +35,8 @@ Baymax is an intelligent AI-powered medical document retrieval and query assista
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/baymax-ai-assistant.git
-cd baymax-ai-assistant
+git https://github.com/syeda434am/Baymax-AI-Assistant-for-Medicare.git
+cd Baymax-AI-Assistant-for-Medicare
 ```
 
 ### 2. Install Ollama
